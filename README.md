@@ -1,7 +1,13 @@
 # 真央ゼミWebサイト
+立命館大学理工学部ロボティクス学科
 真央ゼミのWebサイト用リポジトリです。
 GitHub Pages機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
 https://elmas3.github.io/mao-seminar/
+
+# メンバー
+真央教授   
+エルます   
+ｗかば   
 
 # ディレクトリ構成
 ```
